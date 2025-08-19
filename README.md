@@ -1,3 +1,14 @@
+## 📌 Archived Project Notice  
+
+This project was created as part of a self-paced online bootcamp around 1–2 years ago. It includes a multi-page layout with navigation links and basic functionality. While the code works, it reflects my early development practices and includes references (such as social media links) tied to the original bootcamp material.  
+
+I’ve archived it to keep my portfolio focused on more recent and polished work, but I’m leaving it hosted so the live demo remains accessible.  
+
+🔗 [View Live Demo](https://rtoddm.github.io/unplugged-retreat/about/index.html)  
+
+
+---
+
 ## Table of contents
 
 - [Overview](#overview)
